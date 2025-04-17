@@ -13,9 +13,6 @@ I'm a Computer Science student passionate about building real-world applications
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YAS-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YAS-1&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=YAS-1&icon=6&color=7)](https://visitcount.itsvg.in)
 
